@@ -62,10 +62,17 @@ svg {
 	display: block;
 	width: 20%;
 	height: auto;
-	transition: width 300ms;
+	color: coral;
+	transition: 600ms;
 }
 
 svg:hover {
 	width: 40%;
-	transition: width 300ms;
+	color: magenta;
+	transform: rotate(540deg);
+	transition: 600ms;
+}
+
+svg path {
+	fill: currentcolor;
 }
