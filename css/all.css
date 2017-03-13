@@ -70,7 +70,7 @@ svg:hover {
 	width: 40%;
 	color: magenta;
 	transform: rotate(499deg);
-	transition: 2s;
+	transition: 1.2s;
 }
 
 svg path {
