@@ -69,8 +69,8 @@ svg {
 svg:hover {
 	width: 40%;
 	color: magenta;
-	transform: rotate(540deg);
-	transition: 600ms;
+	transform: rotate(499deg);
+	transition: 2s;
 }
 
 svg path {
