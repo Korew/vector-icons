@@ -53,7 +53,8 @@
 	margin-top: 100px;
 }
 
-.svg-inline {
+.svg-img, .svg-inline {
+	float: left;
 	width: 400px;
 }
 
